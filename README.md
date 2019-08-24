@@ -26,3 +26,9 @@ echo check($dataKey,$word);
 ```
 echo drawLine('SEMOGA LOLOS TAHAP BERIKUTNYA');
 ```
+# Soal 6 & 7
+```
+Belum sempat di up, semoga bisa lolos
+
+```
+mulai ngerjakan jam 17.32
