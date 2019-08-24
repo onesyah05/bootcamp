@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	color: #4d4d4d;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: sans-serif;
+	background-color: #fafafa;
+}
+.sampul{
+	padding: 10px;
+}
+.form{
+	padding: 10px;
+	display: inline-grid;
+}
+.form-control{
+	padding: 10px;
+	display: inline-grid;
+}
+
+input,textarea,select{
+	font-family: sans-serif;
+	margin-top: 5px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #e5e5e5;
+	border-radius: 5px;
+}
+.badge-biru{
+	background-color:#d1dffc; 
+	padding: 0px 10px 0px 10px;
+	border-radius: 10px;
+}
+.badge-birumuda{
+	background-color:#d6effb; 
+	padding: 0px 10px 0px 10px;
+	border-radius: 10px;
+}
+.badge-sedikithijau{
+	background-color:#ccf3e9; 
+	padding: 0px 10px 0px 10px;
+	border-radius: 10px;
+}
+.badge-hijau{
+	background-color:#d9f5c9; 
+	padding: 0px 10px 0px 10px;
+	border-radius: 10px;
+}
+.badge-orange{
+	background-color:#fceabc; 
+	padding: 0px 10px 0px 10px;
+	border-radius: 10px;
+}
+.form button{
+	border-radius: 5px;
+	border-width: 0px;
+	font-weight: bold;
+	font-family: sans-serif;
+	border-style: solid;
+	width: 90px;
+	height: 30px;
+	background-color: #3e80f1;
+	color: white;
+}
