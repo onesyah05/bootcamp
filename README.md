@@ -29,6 +29,6 @@ echo drawLine('SEMOGA LOLOS TAHAP BERIKUTNYA');
 # Soal 6 & 7
 ```
 Belum sempat di up, semoga bisa lolos
-
+Semoga ga berpengaru besar
 ```
 mulai ngerjakan jam 17.32
